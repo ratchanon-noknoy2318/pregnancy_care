@@ -1,6 +1,9 @@
-# Pregnancy Care Information Page
+# Pregnancy Care Information
 
-**Tech Stack:** Next.js, Google Apps Script, Google Sheets
+## Tech Stack
+- Next.js
+- Google Apps Script
+- Google Sheets
 
 ---
 
